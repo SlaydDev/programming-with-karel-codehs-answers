@@ -1,0 +1,24 @@
+public class PancakeKarel extends Karel
+{
+    public void run()
+    {
+        move();
+        makePancakes();
+        move();
+
+        move();
+        makePancakes();
+        move();
+
+        move();
+        makePancakes();
+        move();
+    }
+
+    private void makePancakes()
+    {
+        putBall();
+        putBall();
+        putBall();
+    }
+}
