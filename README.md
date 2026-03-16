@@ -1,12 +1,21 @@
-# 🐶 Programming With Karel — CodeHS Java Solutions
+<h1 align="center">🐶 Programming With Karel</h1>
+
+<p align="center">
+<b>CodeHS Java Solutions</b>
+</p>
+
+<p align="center">
+<b>Maintained by SlaydDev</b>
+<img src="https://img.shields.io/badge/Verified-✔️-brightgreen">
+</p>
 
 <p align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers)
-![Last Commit](https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers)
-![Stars](https://img.shields.io/github/stars/SlaydDev/programming-with-karel-codehs-answers?style=social)
-![Language](https://img.shields.io/badge/language-Java-orange)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
+<img src="https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
+<img src="https://img.shields.io/github/stars/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
+<img src="https://img.shields.io/badge/language-Java-orange?style=flat-square">
+<img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
 
 </p>
 
