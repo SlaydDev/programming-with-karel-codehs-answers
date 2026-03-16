@@ -1,34 +1,19 @@
-# 🐶 Programming With Karel
+# 🐶 Programming With Karel — CodeHS Java Solutions
 
-<img src="https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
-<img src="https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
-<img src="https://img.shields.io/github/stars/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
-<img src="https://img.shields.io/badge/language-Java-orange?style=flat-square">
-<img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
+![Repo Size](https://img.shields.io/github/repo-size/YOURNAME/REPO)
+![Last Commit](https://img.shields.io/github/last-commit/YOURNAME/REPO)
+![Java](https://img.shields.io/badge/language-Java-orange)
+![License](https://img.shields.io/badge/license-educational-blue)
 
-A collection of **Programming with Karel** solutions from **CodeHS**, written in **Java** and organized for readability and learning.
+A collection of my **Programming with Karel** solutions from **CodeHS**, written in **Java** and organized for clarity.
 
-This repository serves as a **reference for beginners** who are learning programming concepts through the Karel environment. Each program includes light comments explaining what the code is doing so the logic is easy to follow.
-
----
-
-## 📑 Table of Contents
-
-* [About Karel](#-about-karel)
-* [Repository Structure](#-repository-structure)
-* [What You'll Find](#-what-youll-find)
-* [Goals of This Repository](#-goals-of-this-repository)
-* [Future Improvements](#-future-improvements)
-* [Academic Integrity](#-academic-integrity)
-* [License](#-license)
+This repository acts as a **learning reference** for anyone exploring basic programming concepts using the Karel environment. Each file includes simple comments explaining the logic behind the solution.
 
 ---
 
 ## 📚 About Karel
 
-**Karel the Dog** is a beginner programming environment used to introduce core programming concepts through simple grid-based challenges.
-
-Students control Karel using commands and logic to solve problems, which helps build a foundation for full programming languages like Java.
+**Karel the Robot** is a beginner programming environment used to teach fundamental programming concepts such as:
 
 | Concept         | Example               |
 | --------------- | --------------------- |
@@ -37,13 +22,13 @@ Students control Karel using commands and logic to solve problems, which helps b
 | Loops           | `while`, `for`        |
 | Problem solving | grid-based challenges |
 
-Many introductory programming courses use Karel before moving on to larger Java projects.
+It’s commonly used in **intro programming courses** before students move to full Java development.
 
 ---
 
 ## 📁 Repository Structure
 
-The repository is organized by **CodeHS units**, keeping exercises grouped by topic.
+The repository is organized by **CodeHS units**.
 
 ```
 Programming-With-Karel/
@@ -63,23 +48,20 @@ Each unit folder contains the exercises completed in that module.
 
 ---
 
-## 🧠 What You'll Find
+## 🧠 What You’ll Find
 
 * Clean **Java Karel solutions**
-* Helpful **inline comments explaining the logic**
-* Simple examples useful for **beginners**
-* Organized structure that makes browsing easy
+* Helpful **inline comments**
+* Simple examples for **beginners**
+* Organized structure for easy browsing
 
-Example program:
+Example snippet:
 
 ```java
 public void run() {
-    // Move forward twice
+    // Move forward and place a beeper
     move();
-    move();
-
-    // Place a ball
-    putBall();
+    putBeeper();
 }
 ```
 
@@ -87,10 +69,8 @@ public void run() {
 
 ## 🎯 Goals of This Repository
 
-This repository exists to:
-
-* Archive my **CodeHS Karel coursework**
-* Provide a **simple learning reference** for beginners
+* Archive my **CodeHS coursework**
+* Provide a **learning reference** for beginners
 * Practice **clean code organization**
 * Track my progress while learning Java
 
@@ -98,12 +78,20 @@ This repository exists to:
 
 ## 🚧 Future Improvements
 
-Planned improvements include:
+Planned additions:
 
-* Adding more completed **CodeHS units**
-* Expanding comments for better clarity
-* Creating a **solution index** for faster navigation
-* Possibly adding **visual diagrams of Karel worlds**
+* More completed **CodeHS units**
+* Clearer explanations in comments
+* A **solution index** for quick navigation
+* Possible **visual diagrams** of Karel worlds
+
+---
+
+## ⭐ Support
+
+If this repository helped you understand something, consider giving it a **⭐ star**.
+
+It helps others discover the project and motivates me to keep improving it.
 
 ---
 
@@ -115,12 +103,12 @@ You are welcome to:
 
 * Read them
 * Learn from them
-* Compare different approaches
+* Compare approaches
 
-Please **do not copy solutions directly for school assignments**. Use them as a learning reference instead.
+Please **do not copy/paste solutions for school assignments**. Use them as a reference instead.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This repository is shared for **educational purposes**.
