@@ -2,10 +2,6 @@
 
 **CodeHS Java Solutions**  
 
-<p>
-<b>Maintained by SlaydDev</b>
-<img src="https://img.shields.io/badge/Verified-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Verified Badge" height="20" style="vertical-align:middle;">
-</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
