@@ -1,12 +1,10 @@
 # 🐶 Programming With Karel
 
-<p align="center">
 <img src="https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/github/stars/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/badge/language-Java-orange?style=flat-square">
 <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
-</p>
 
 A collection of **Programming with Karel** solutions from **CodeHS**, written in **Java** and organized for readability and learning.
 
