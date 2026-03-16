@@ -4,7 +4,7 @@
 
 <p>
 <b>Maintained by SlaydDev</b>
-<img src="https://img.shields.io/badge/Verified-true-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Verified Badge" height="20" style="vertical-align:middle;">
+<img src="https://img.shields.io/badge/Verified-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Verified Badge" height="20" style="vertical-align:middle;">
 </p>
 
 <p align="center">
