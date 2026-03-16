@@ -1,22 +1,18 @@
-<h1 align="center">🐶 Programming With Karel</h1>
+# 🐶 Programming With Karel
 
-<p align="center">
-<b>CodeHS Java Solutions</b>
-</p>
+**CodeHS Java Solutions**  
 
-<p align="center">
+<p>
 <b>Maintained by SlaydDev</b>
-<img src="https://img.shields.io/badge/Verified-✔️-brightgreen">
+<img src="https://img.shields.io/badge/Verified-true-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Verified Badge" height="20" style="vertical-align:middle;">
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/github/stars/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/badge/language-Java-orange?style=flat-square">
 <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
-
 </p>
 
 A collection of **Programming with Karel** solutions from **CodeHS**, written in **Java** and organized for readability and learning.
