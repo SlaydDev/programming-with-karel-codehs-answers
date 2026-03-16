@@ -1,7 +1,7 @@
 # 🐶 Programming With Karel — CodeHS Java Solutions
 
-![Repo Size](https://img.shields.io/github/repo-size/YOURNAME/REPO)
-![Last Commit](https://img.shields.io/github/last-commit/YOURNAME/REPO)
+![Repo Size](https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers)
+![Last Commit](https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers)
 ![Java](https://img.shields.io/badge/language-Java-orange)
 ![License](https://img.shields.io/badge/license-educational-blue)
 
