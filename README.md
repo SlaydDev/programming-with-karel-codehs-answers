@@ -1,8 +1,5 @@
 # 🐶 Programming With Karel
 
-**CodeHS Java Solutions**  
-
-
 <p align="center">
 <img src="https://img.shields.io/github/repo-size/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
 <img src="https://img.shields.io/github/last-commit/SlaydDev/programming-with-karel-codehs-answers?style=flat-square">
