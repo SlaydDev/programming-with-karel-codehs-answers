@@ -1,4 +1,4 @@
-![Slayd Development Shutdown](https://img.shields.io/badge/Slayd%20Development%20Has%20Been%20Shutdown-%20Migrated%20to%20CaptainEXE%20Studios-red?style=for-the-badge)
+[![Developed & Maintained by CaptainEXE](https://img.shields.io/badge/Developed%20%26%20Maintained%20by-CaptainEXE-00FFFF?style=for-the-badge&labelColor=0e1117&logo=reactivex&logoColor=white)](https://thecaptainexe.vercel.app/)
 
 # 🐶 Programming With Karel — CodeHS Java Solutions
 
